@@ -2,6 +2,8 @@
 
 BiciMAD datasest download and analysis code, including an interactive dashboard.
 
+![Dashboard screenshot](dashboard.png)
+
 ## Usage
 
 Start the database with:
